@@ -9,3 +9,5 @@ $env:TORCH_COMPILE_DISABLE = "1"; lmdeploy serve api_server D:\model_cache\model
 环境
 pip install torch==2.7.1 torchvision==0.22.1 --index-url https://download.pytorch.org/whl/cu126
 Python 3.10.19
+
+-
